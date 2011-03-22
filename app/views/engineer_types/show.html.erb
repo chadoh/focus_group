@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Level:</b>
+  <%= @engineer_type.level %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @engineer_type.name %>
+</p>
+
+
+<%= link_to 'Edit', edit_engineer_type_path(@engineer_type) %> |
+<%= link_to 'Back', engineer_types_path %>
