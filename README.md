@@ -18,15 +18,11 @@ of sticky notes for each empty cell in the following grid:
     <td></td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <th>1 (Associate)</th>
-    <td></td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <th>2</th>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -36,9 +32,11 @@ of sticky notes for each empty cell in the following grid:
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <th>4 (Senior)</th>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -48,9 +46,11 @@ of sticky notes for each empty cell in the following grid:
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <th>6 (Senior Principal)</th>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
